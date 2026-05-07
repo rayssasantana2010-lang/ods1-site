@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>ODS 1</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: #f4f4f4;
+      text-align: center;
+      padding: 40px;
+    }
+
+    h1 {
+      color: #e5243b;
+    }
+
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      max-width: 700px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    img {
+      width: 200px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card">
+  <img src="https://brasil.un.org/sites/default/files/2020-09/SDG-1.svg" alt="ODS 1">
+  
+  <h1>ODS 1 - Erradicação da Pobreza</h1>
+
+  <p>
+    A ODS 1 busca acabar com a pobreza em todas as suas formas
+    e em todos os lugares do mundo.
+  </p>
+
+  <h2>Como ajudar?</h2>
+
+  <ul style="text-align:left;">
+    <li>Doar alimentos e roupas</li>
+    <li>Apoiar projetos sociais</li>
+    <li>Combater desigualdades</li>
+  </ul>
+</div>
+
+</body>
+</html>
